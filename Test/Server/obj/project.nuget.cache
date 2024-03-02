@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hLvBGrgE4gcGG/u4UcGIlNnEK8k8IYa3FPQGCtnBQhqZsoukUD9p5mOqXqRfN7TmWqw7YWti/dPAb6pozZlHJg==",
+  "dgSpecHash": "t+6ZSlOGLNc75dx87CK2CaFoBwVtXVAAdBh8BxSoDzLOaFdwr4Q4cPWxsDYZRKLxsUHeB87m13rOdNyDclF7bw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Server\\Test.Server.csproj",
   "expectedPackageFiles": [
@@ -107,6 +107,7 @@
     "C:\\Users\\Gabriela\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.16\\microsoft.entityframeworkcore.abstractions.7.0.16.nupkg.sha512",
     "C:\\Users\\Gabriela\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.16\\microsoft.entityframeworkcore.analyzers.7.0.16.nupkg.sha512",
     "C:\\Users\\Gabriela\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.16\\microsoft.entityframeworkcore.design.7.0.16.nupkg.sha512",
+    "C:\\Users\\Gabriela\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.0\\microsoft.entityframeworkcore.inmemory.7.0.0.nupkg.sha512",
     "C:\\Users\\Gabriela\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.16\\microsoft.entityframeworkcore.relational.7.0.16.nupkg.sha512",
     "C:\\Users\\Gabriela\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\7.0.16\\microsoft.entityframeworkcore.sqlite.7.0.16.nupkg.sha512",
     "C:\\Users\\Gabriela\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\7.0.16\\microsoft.entityframeworkcore.sqlite.core.7.0.16.nupkg.sha512",
