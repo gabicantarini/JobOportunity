@@ -1,0 +1,12 @@
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\Test\Test\Shared\bin\Debug\net7.0\Test.Shared.deps.json
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\Test\Test\Shared\bin\Debug\net7.0\Test.Shared.dll
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\Test\Test\Shared\bin\Debug\net7.0\Test.Shared.pdb
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\Test\Test\Shared\obj\Debug\net7.0\Test.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\Test\Test\Shared\obj\Debug\net7.0\Test.Shared.AssemblyInfoInputs.cache
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\Test\Test\Shared\obj\Debug\net7.0\Test.Shared.AssemblyInfo.cs
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\Test\Test\Shared\obj\Debug\net7.0\Test.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\Test\Test\Shared\obj\Debug\net7.0\Test.Shared.sourcelink.json
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\Test\Test\Shared\obj\Debug\net7.0\Test.Shared.dll
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\Test\Test\Shared\obj\Debug\net7.0\refint\Test.Shared.dll
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\Test\Test\Shared\obj\Debug\net7.0\Test.Shared.pdb
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\Test\Test\Shared\obj\Debug\net7.0\ref\Test.Shared.dll
