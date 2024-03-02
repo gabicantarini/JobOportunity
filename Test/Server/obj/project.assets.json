@@ -4799,30 +4799,30 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Test.Client/1.0.0": {
+      "JobOpportunitty.Client/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "JobOpportunitty.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "7.0.15",
           "Microsoft.AspNetCore.Components.WebAssembly.Authentication": "7.0.15",
-          "Microsoft.Extensions.Http": "7.0.0",
-          "Test.Shared": "1.0.0"
+          "Microsoft.Extensions.Http": "7.0.0"
         },
         "compile": {
-          "bin/placeholder/Test.Client.dll": {}
+          "bin/placeholder/JobOpportunitty.Client.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Test.Client.dll": {}
+          "bin/placeholder/JobOpportunitty.Client.dll": {}
         }
       },
-      "Test.Shared/1.0.0": {
+      "JobOpportunitty.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/Test.Shared.dll": {}
+          "bin/placeholder/JobOpportunitty.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Test.Shared.dll": {}
+          "bin/placeholder/JobOpportunitty.Shared.dll": {}
         }
       }
     }
@@ -13231,19 +13231,21 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Test.Client/1.0.0": {
+    "JobOpportunitty.Client/1.0.0": {
       "type": "project",
-      "path": "../Client/Test.Client.csproj",
-      "msbuildProject": "../Client/Test.Client.csproj"
+      "path": "../Client/JobOpportunitty.Client.csproj",
+      "msbuildProject": "../Client/JobOpportunitty.Client.csproj"
     },
-    "Test.Shared/1.0.0": {
+    "JobOpportunitty.Shared/1.0.0": {
       "type": "project",
-      "path": "../Shared/Test.Shared.csproj",
-      "msbuildProject": "../Shared/Test.Shared.csproj"
+      "path": "../Shared/JobOpportunitty.Shared.csproj",
+      "msbuildProject": "../Shared/JobOpportunitty.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "JobOpportunitty.Client >= 1.0.0",
+      "JobOpportunitty.Shared >= 1.0.0",
       "Microsoft.AspNetCore.ApiAuthorization.IdentityServer >= 7.0.15",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 7.0.15",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 7.0.15",
@@ -13253,9 +13255,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.16",
       "Microsoft.EntityFrameworkCore.Sqlite >= 7.0.16",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.16",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.12",
-      "Test.Client >= 1.0.0",
-      "Test.Shared >= 1.0.0"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.12"
     ]
   },
   "packageFolders": {
@@ -13265,9 +13265,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Server\\Test.Server.csproj",
-      "projectName": "Test.Server",
-      "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Server\\Test.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Server\\JobOpportunitty.Server.csproj",
+      "projectName": "JobOpportunitty.Server",
+      "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Server\\JobOpportunitty.Server.csproj",
       "packagesPath": "C:\\Users\\Gabriela\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Server\\obj\\",
       "projectStyle": "PackageReference",
@@ -13290,11 +13290,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\Test.Client.csproj": {
-              "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\Test.Client.csproj"
+            "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\JobOpportunitty.Client.csproj": {
+              "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\JobOpportunitty.Client.csproj"
             },
-            "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\Test.Shared.csproj": {
-              "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\Test.Shared.csproj"
+            "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\JobOpportunitty.Shared.csproj": {
+              "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\JobOpportunitty.Shared.csproj"
             }
           }
         }

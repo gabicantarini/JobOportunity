@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\Test.Shared.csproj",
-      "projectName": "Test.Shared",
-      "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\Test.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\JobOpportunitty.Shared.csproj",
+      "projectName": "JobOpportunitty.Shared",
+      "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\JobOpportunitty.Shared.csproj",
       "packagesPath": "C:\\Users\\Gabriela\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\obj\\",
       "projectStyle": "PackageReference",

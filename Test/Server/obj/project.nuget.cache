@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t+6ZSlOGLNc75dx87CK2CaFoBwVtXVAAdBh8BxSoDzLOaFdwr4Q4cPWxsDYZRKLxsUHeB87m13rOdNyDclF7bw==",
+  "dgSpecHash": "z2cibpWlqatvMNwZwYYkhfUx9gLZNVuPs17evOidUZsliniAyl0RAX/aTWLipdEzwWYjCFhdBuzaE3TWT7RV5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Server\\Test.Server.csproj",
+  "projectFilePath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Server\\JobOpportunitty.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriela\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Gabriela\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

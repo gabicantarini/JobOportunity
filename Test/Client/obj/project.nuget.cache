@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ULxxDhTA3RUBtyFbSjsLBwgEOToBkDk7KpJseNHecMCrzcDs2gxF6ICynsVkE6UKQ9LyXQ/atwC7RCMS48a7zQ==",
+  "dgSpecHash": "2+XQsC0LJjJzsMUUnIvTjQTF4jY7pzZJzw3/WH7vF0SnCSfp4c0MChwQgGZFO0y6P+eXf0WKRT7Po/4bEa7SbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\Test.Client.csproj",
+  "projectFilePath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\JobOpportunitty.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriela\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.15\\microsoft.aspnetcore.authorization.7.0.15.nupkg.sha512",
     "C:\\Users\\Gabriela\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.15\\microsoft.aspnetcore.components.7.0.15.nupkg.sha512",

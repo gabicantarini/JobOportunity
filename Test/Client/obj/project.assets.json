@@ -557,14 +557,14 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
-      "Test.Shared/1.0.0": {
+      "JobOpportunitty.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/Test.Shared.dll": {}
+          "bin/placeholder/JobOpportunitty.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Test.Shared.dll": {}
+          "bin/placeholder/JobOpportunitty.Shared.dll": {}
         }
       }
     },
@@ -1118,14 +1118,14 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
-      "Test.Shared/1.0.0": {
+      "JobOpportunitty.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/Test.Shared.dll": {}
+          "bin/placeholder/JobOpportunitty.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Test.Shared.dll": {}
+          "bin/placeholder/JobOpportunitty.Shared.dll": {}
         }
       }
     }
@@ -2152,22 +2152,22 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Test.Shared/1.0.0": {
+    "JobOpportunitty.Shared/1.0.0": {
       "type": "project",
-      "path": "../Shared/Test.Shared.csproj",
-      "msbuildProject": "../Shared/Test.Shared.csproj"
+      "path": "../Shared/JobOpportunitty.Shared.csproj",
+      "msbuildProject": "../Shared/JobOpportunitty.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "JobOpportunitty.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 7.0.15",
       "Microsoft.AspNetCore.Components.WebAssembly.Authentication >= 7.0.15",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 7.0.15",
       "Microsoft.Extensions.Http >= 7.0.0",
       "Microsoft.NET.ILLink.Analyzers >= 7.0.100-1.23211.1",
       "Microsoft.NET.ILLink.Tasks >= 7.0.100-1.23211.1",
-      "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.1",
-      "Test.Shared >= 1.0.0"
+      "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.1"
     ]
   },
   "packageFolders": {
@@ -2177,9 +2177,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\Test.Client.csproj",
-      "projectName": "Test.Client",
-      "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\Test.Client.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\JobOpportunitty.Client.csproj",
+      "projectName": "JobOpportunitty.Client",
+      "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\JobOpportunitty.Client.csproj",
       "packagesPath": "C:\\Users\\Gabriela\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\obj\\",
       "projectStyle": "PackageReference",
@@ -2202,8 +2202,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\Test.Shared.csproj": {
-              "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\Test.Shared.csproj"
+            "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\JobOpportunitty.Shared.csproj": {
+              "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\JobOpportunitty.Shared.csproj"
             }
           }
         }

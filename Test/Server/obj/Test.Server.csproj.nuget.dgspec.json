@@ -4,12 +4,12 @@
     "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Server\\Test.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\Test.Client.csproj": {
+    "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\JobOpportunitty.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\Test.Client.csproj",
-        "projectName": "Test.Client",
-        "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\Test.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\JobOpportunitty.Client.csproj",
+        "projectName": "JobOpportunitty.Client",
+        "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\JobOpportunitty.Client.csproj",
         "packagesPath": "C:\\Users\\Gabriela\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\obj\\",
         "projectStyle": "PackageReference",
@@ -143,8 +143,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\Test.Client.csproj": {
-                "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\Test.Client.csproj"
+              "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\JobOpportunitty.Client.csproj": {
+                "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Client\\JobOpportunitty.Client.csproj"
               },
               "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\Test.Shared.csproj": {
                 "projectPath": "C:\\Users\\Gabriela\\Desktop\\Cantarini\\Gabriela\\2022TI\\Blazor\\Test\\Test\\Shared\\Test.Shared.csproj"
