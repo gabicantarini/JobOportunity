@@ -4,9 +4,9 @@ namespace JobOpportunitty.Server.Entities
 {
     public class Job
     {
-        public Job(Guid id, string title, string description, string company, string location, decimal salary, Guid createdByUser, List<JobApplication> jobApplications, DateTime createdAt)
+        public Job(string title, string description, string company, string location, decimal salary, Guid createdByUser, List<JobApplication> jobApplications, DateTime createdAt)
         {
-            Id = id;
+            Id = Guid.NewGuid();
             Title = title;
             Description = description;
             Company = company;
@@ -29,5 +29,13 @@ namespace JobOpportunitty.Server.Entities
 
         public DateTime  CreatedAt { get; private set; }
 
+        public void Update(string title, string description, string company, string location, decimal salary)
+        {
+            Title = title;
+            Description = description;
+            Company = company;
+            Location = location;
+            Salary = salary;
+        }
     }
 }
