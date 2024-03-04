@@ -16,7 +16,6 @@
         public string UserId { get; private set; }
         public Guid JobId { get; private set; }
         public Job  Job { get; private set; }
-
         public DateTime AppliedAt { get; private set; }
     }
 }
