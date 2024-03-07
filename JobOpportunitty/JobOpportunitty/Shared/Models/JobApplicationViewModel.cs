@@ -16,7 +16,7 @@ namespace JobOpportunitty.Shared.Models
             Company = company;
             Location = location;
             Salary = salary;
-            ApliedAt = apliedAt;
+            AppliedAt = apliedAt;
         }
 
         //precisamos dos dados do jpb aplication e da aplicação para preencher esta tabela
@@ -27,6 +27,6 @@ namespace JobOpportunitty.Shared.Models
         public string Company { get; private set; }
         public string Location { get; private set; }
         public decimal Salary { get; private set; }
-        public DateTime ApliedAt { get; private set; }
+        public DateTime AppliedAt { get; private set; }
     }
 }

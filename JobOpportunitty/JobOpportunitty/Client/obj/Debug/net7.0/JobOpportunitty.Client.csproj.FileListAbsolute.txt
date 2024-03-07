@@ -845,3 +845,4 @@ C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOp
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\refint\JobOpportunitty.Client.dll
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.pdb
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\ref\JobOpportunitty.Client.dll
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.sourcelink.json

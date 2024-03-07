@@ -2,12 +2,11 @@
 {
     public class JobApplication
     {
-        public JobApplication(string userId, Guid jobId, Job job)
+        public JobApplication(string userId, Guid jobId)
         {
             Id = Guid.NewGuid();
             UserId = userId;
             JobId = jobId;
-            Job = job;
 
             AppliedAt = DateTime.Now;
         }

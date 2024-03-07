@@ -26,6 +26,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Gabriela/Desktop/Cantarini/Gabriela/2022TI/Blazor/JobOpportunitty/JobOpportunitty/Client/Pages/AddJob.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkSm9iLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Gabriela/Desktop/Cantarini/Gabriela/2022TI/Blazor/JobOpportunitty/JobOpportunitty/Client/Pages/Authentication.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Gabriela/Desktop/Cantarini/Gabriela/2022TI/Blazor/JobOpportunitty/JobOpportunitty/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gabriela/Desktop/Cantarini/Gabriela/2022TI/Blazor/JobOpportunitty/JobOpportunitty/Client/Pages/UpdateJob.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBkYXRlSm9iLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Gabriela/Desktop/Cantarini/Gabriela/2022TI/Blazor/JobOpportunitty/JobOpportunitty/Client/Shared/LoginDisplay.razor]

@@ -4,7 +4,7 @@ namespace JobOpportunitty.Server.Entities
 {
     public class Job
     {
-        public Job(string title, string description, string company, string location, decimal salary, Guid createdByUser, List<JobApplication> jobApplications, DateTime createdAt)
+        public Job(string title, string description, string company, string location, decimal salary, Guid createdByUser)
         {
             Id = Guid.NewGuid();
             Title = title;
@@ -13,6 +13,7 @@ namespace JobOpportunitty.Server.Entities
             Location = location;
             Salary = salary;
             CreatedByUser = createdByUser;
+
             CreatedAt = DateTime.Now;
         }
 
