@@ -1,0 +1,49 @@
+﻿@page "/application-job"
+@using JobOpportunitty.Shared.Models;
+@using System.Text.Json;
+@using System.Text;
+@using System.Net.Http.Headers;
+@inject HttpClient HttpClient;
+
+<PageTitle>Veja as suas Vagas Aplicadas.</PageTitle>
+
+<h1>Veja as suas Vagas Aplicadas.</h1>
+
+<Table class="table">
+    <thead>
+        <tr>
+           <td>Título</td>
+            <td>Empresa</td>
+            <td>Localização</td>
+            <td>Salário</td>
+        </tr>
+
+    </thead>
+
+    <tbody>
+        @foreach (var jobApplication in model)
+        {
+            if (jobApplication is not null)
+            {
+                <tr>
+                    <td>@jobApplication.Title</td>
+                    <td>@jobApplication.Company</td>
+                    <td>@jobApplication.Location</td>
+                    <td>@jobApplication.Salary</td>
+                    <td>@jobApplication.AppliedAt</td>
+                </tr>
+            }
+        }
+    </tbody>
+</Table>
+@code {
+    private List<JobApplicationViewModel> model = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        model =  await HttpClient.GetFromJsonAsync<List<JobApplicationViewModel>>("api/jobs/applications");
+    }
+}
+
+
+

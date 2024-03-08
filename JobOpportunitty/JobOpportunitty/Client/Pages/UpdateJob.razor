@@ -1,4 +1,4 @@
-﻿@page "/update-job{id}"
+﻿@page "/update-job/{id}"
 @using JobOpportunitty.Shared.Models;
 @using System.Text.Json;
 @using System.Text;
@@ -10,7 +10,7 @@
 <h1>Atualize uma Vaga</h1>
 
 <div class="form-container">
-    if (showMessage)
+    @if (showMessage)
     {
     <div class="alert alert-success">
         Vaga atualize com sucesso
@@ -56,6 +56,7 @@
                 </div>
             </div>
         </div>
+        <button typeof="submit" class="btn btn-primary mt-3">Salvar</button>
 
     </EditForm>
 
@@ -66,10 +67,16 @@
 
     [Parameter]
     public string Id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        model = await HttpClient.GetFromJsonAsync<JobInputModel>($"api/jobs/{Id}");
+    }
+
     private async Task HandleValidSubmit()
     {
         var json = JsonSerializer.Serialize(model);
-        var request = new HttpRequestMessage(HttpMethod.Put, "api/jobs");
+        var request = new HttpRequestMessage(HttpMethod.Put, $"api/jobs/{Id}");
 
         request.Content = new StringContent(json, Encoding.UTF8);
         request.Content.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("application/json");

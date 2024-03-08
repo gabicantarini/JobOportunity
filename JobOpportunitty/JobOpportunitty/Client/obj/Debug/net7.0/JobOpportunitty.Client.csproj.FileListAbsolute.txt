@@ -1,3 +1,10 @@
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.AssemblyInfoInputs.cache
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.AssemblyInfo.cs
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.sourcelink.json
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.15.v169dk0umt.js
@@ -615,12 +622,6 @@ C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOp
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\bin\Debug\net7.0\icudt_no_CJK.dat
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\bin\Debug\net7.0\JobOpportunitty.Shared.dll
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\bin\Debug\net7.0\JobOpportunitty.Shared.pdb
-C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.csproj.AssemblyReference.cache
-C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.AssemblyInfoInputs.cache
-C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.AssemblyInfo.cs
-C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.csproj.CoreCompileInputs.cache
-C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\blazor.build.boot-extension.json
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\blazor.boot.json
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\staticwebassets.build.json
@@ -845,4 +846,3 @@ C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOp
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\refint\JobOpportunitty.Client.dll
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.pdb
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\ref\JobOpportunitty.Client.dll
-C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\Blazor\JobOpportunitty\JobOpportunitty\Client\obj\Debug\net7.0\JobOpportunitty.Client.sourcelink.json

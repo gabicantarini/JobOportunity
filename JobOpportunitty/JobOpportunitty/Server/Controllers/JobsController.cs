@@ -126,7 +126,9 @@ namespace JobOpportunitty.Server.Controllers
                 return BadRequest();
             }
 
-            var applications = await _context.JobApplications.Where(j => j.UserId == userId).ToListAsync();
+            var applications = await _context.JobApplications
+                .Include(ja => ja.Job)
+                .Where(j => j.UserId == userId).ToListAsync();
 
             var model = applications.Select(a => //return new model out
                 new JobApplicationViewModel(

@@ -1,7 +1,7 @@
 {
   "entryAssembly": "JobOpportunitty.Client",
   "resources": {
-    "hash": "sha256-XBkpxXtnhdzSv1EStdIRgv7TdvMnW5zmjy/cjD9mUgw=",
+    "hash": "sha256-daXhr5cTS9EWzKUDZ2X8xawgm4B3mC/IeygWdnR0FRY=",
     "runtime": {
       "dotnet.7.0.15.v169dk0umt.js": "sha256-MHuxwxeVFybuBBTAWeZrvoStZpW+H4ThSaRcFvrfqXM=",
       "dotnet.timezones.blat": "sha256-aHk3Pm2JXopn6UPLJtovAqIdIk8GyIMzGm450cli9UE=",
@@ -205,12 +205,12 @@
       "mscorlib.dll": "sha256-fVDx40u1vKqhdy509hDF73SIx6C5q5Mst93LwfZWVQY=",
       "netstandard.dll": "sha256-ohOFXxRJKiyPbitdA1y5ebD9fSAGELDRVmhDM2nVdtA=",
       "System.Private.CoreLib.dll": "sha256-7Y6AhJbgMptcdman3NtSEbcJV520wGmyxB8QvZwrUmc=",
-      "JobOpportunitty.Shared.dll": "sha256-Fhq3f0Ei4VyLg7h2eZ4WMDyexJ5jJSKwz4IsGGi2M4w=",
-      "JobOpportunitty.Client.dll": "sha256-qZMxz4nt7wU4oHyXMew9z58hRJsmIiB3W66wKz025BU="
+      "JobOpportunitty.Shared.dll": "sha256-qkmH4j2529XG6aBGaZHFH+H1CjxS9wQSoblVujzE0O8=",
+      "JobOpportunitty.Client.dll": "sha256-1zp5IFh6Mp2KSPj/q/lVFzMYxlqwwD4IWfgh8MdXOes="
     },
     "pdb": {
-      "JobOpportunitty.Shared.pdb": "sha256-mhh0M8nD7WJiqlJjBkElqNartZjzE82HhXnV2OQlyt0=",
-      "JobOpportunitty.Client.pdb": "sha256-VTCYT/E4N0kKkxter3sf6F/YEtUzP6XkJg2vNosAc+4="
+      "JobOpportunitty.Shared.pdb": "sha256-FEBFSsKAFmLe9CurMGDL9gxHhxrTgcnqes6efOHGb1M=",
+      "JobOpportunitty.Client.pdb": "sha256-lGcOY7v6Zh14wSRXgOztwWggMxp9ySrksIE/pnhRpCI="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
